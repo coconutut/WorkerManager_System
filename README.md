@@ -1,2 +1,3 @@
 # Worker_Manager_System
-demo system for C++ learning
+
+Demo system for C++ learning

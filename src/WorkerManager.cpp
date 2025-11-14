@@ -8,7 +8,7 @@ WorkerManager::WorkerManager(){
 }
 
 WorkerManager::~WorkerManager(){
-    
+
 }
 
 void WorkerManager::CreateWorker(Worker* p[], int* lenp){
@@ -95,5 +95,5 @@ void WorkerManager::SortWorker(Worker* p[], int* lenp){
 }
 
 void WorkerManager::Save(){
-
+    
 }
