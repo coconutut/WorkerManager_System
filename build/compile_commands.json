@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\main.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\ShowMenu.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\ShowMenu.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/ShowMenu.cpp",
+  "output": "CMakeFiles/main.dir/src/ShowMenu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\WorkerManager.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\WorkerManager.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/WorkerManager.cpp",
+  "output": "CMakeFiles/main.dir/src/WorkerManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\Boss.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\Boss.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/Boss.cpp",
+  "output": "CMakeFiles/main.dir/src/Boss.cpp.obj"
+},
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\Staff.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\Staff.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/Staff.cpp",
+  "output": "CMakeFiles/main.dir/src/Staff.cpp.obj"
+},
+{
+  "directory": "C:/Users/Song Haojie/Desktop/WorkerManager_System/build",
+  "command": "\"E:\\Programs Files\\mingw64\\bin\\g++.exe\"  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\Manager.cpp.obj -c \"C:\\Users\\Song Haojie\\Desktop\\WorkerManager_System\\src\\Manager.cpp\"",
+  "file": "C:/Users/Song Haojie/Desktop/WorkerManager_System/src/Manager.cpp",
+  "output": "CMakeFiles/main.dir/src/Manager.cpp.obj"
+}
+]
