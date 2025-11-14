@@ -288,6 +288,7 @@ CMakeFiles/main.dir/src/ShowMenu.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerMa
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/char_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/charconv.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/codecvt.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/concept_check.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cpp_type_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cxxabi_forced.h \
@@ -295,6 +296,7 @@ CMakeFiles/main.dir/src/ShowMenu.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerMa
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_ptr.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fstream.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functexcept.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functional_hash.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/hash_bytes.h \
@@ -352,6 +354,7 @@ CMakeFiles/main.dir/src/ShowMenu.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerMa
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/numeric_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/string_conversions.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/type_traits.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/fstream \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/initializer_list \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iosfwd \
@@ -370,8 +373,10 @@ CMakeFiles/main.dir/src/ShowMenu.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerMa
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/type_traits \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/typeinfo \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -565,6 +570,7 @@ CMakeFiles/main.dir/src/WorkerManager.cpp.obj: C:/Users/Song\ Haojie/Desktop/Wor
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/char_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/charconv.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/codecvt.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/concept_check.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cpp_type_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cxxabi_forced.h \
@@ -572,6 +578,7 @@ CMakeFiles/main.dir/src/WorkerManager.cpp.obj: C:/Users/Song\ Haojie/Desktop/Wor
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_ptr.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fstream.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functexcept.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functional_hash.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/hash_bytes.h \
@@ -629,6 +636,7 @@ CMakeFiles/main.dir/src/WorkerManager.cpp.obj: C:/Users/Song\ Haojie/Desktop/Wor
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/numeric_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/string_conversions.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/type_traits.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/fstream \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/initializer_list \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iosfwd \
@@ -647,8 +655,10 @@ CMakeFiles/main.dir/src/WorkerManager.cpp.obj: C:/Users/Song\ Haojie/Desktop/Wor
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/type_traits \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/typeinfo \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -702,6 +712,7 @@ CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerManage
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/char_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/charconv.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/codecvt.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/concept_check.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cpp_type_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/cxxabi_forced.h \
@@ -709,6 +720,7 @@ CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerManage
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_ptr.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fstream.tcc \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functexcept.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/functional_hash.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/hash_bytes.h \
@@ -766,6 +778,7 @@ CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerManage
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/numeric_traits.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/string_conversions.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ext/type_traits.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/fstream \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/initializer_list \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iosfwd \
@@ -784,8 +797,10 @@ CMakeFiles/main.dir/src/main.cpp.obj: C:/Users/Song\ Haojie/Desktop/WorkerManage
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/type_traits \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/typeinfo \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
   E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
@@ -1108,6 +1123,16 @@ E:/Programs\ Files/mingw64/x86_64-w64-mingw32/include/vadefs.h:
 E:/Programs\ Files/mingw64/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Users/Song\ Haojie/Desktop/WorkerManager_System/src/Manager.cpp:
+
+E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/codecvt.h:
+
+E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fstream.tcc:
+
+E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/fstream:
+
+E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
+
+E:/Programs\ Files/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
 
 C:/Users/Song\ Haojie/Desktop/WorkerManager_System/src/Staff.cpp:
 

@@ -8,4 +8,5 @@ void WorkerManager::ShowMenu(){
     cout << "number 2 -> Search Workers" << endl;
     cout << "number 3 -> Delete Workers" << endl;
     cout << "number 4 -> Sort Workers" << endl;
+    cout << "number 5 -> Workers Counts" << endl;
 }

@@ -4,8 +4,11 @@
 int main(){
     WorkerManager w0;
     int option = -1;
-    Worker** p = new Worker*[5];
+    Worker* p[10];//栈区，自动释放
+    // Worker** p = new Worker*[10]; //堆区，需手动释放
     int length = 0;
+    //初始化
+    w0.Init(p, &length);
     while(1){
         w0.ShowMenu();
         cin >> option;
@@ -13,6 +16,7 @@ int main(){
             //系统退出功能
             case 0:
                 cout << "Bye" << endl;
+                w0.Save(p, &length);
                 exit(0);
             //添加职工功能
             case 1:
@@ -30,9 +34,15 @@ int main(){
             case 4:
                 w0.SortWorker(p, &length);
                 break;
+            case 5:
+                w0.WorkerCount(p, &length);
             default:
                 break;
        }
        system("cls");
+    }
+    //释放内存，防止泄露
+    for(int i = 0; i < length; i++) {
+        delete p[i];
     }
 }

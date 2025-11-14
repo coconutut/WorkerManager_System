@@ -4,11 +4,34 @@
 #include "Boss.h"
 
 WorkerManager::WorkerManager(){
-
 }
 
 WorkerManager::~WorkerManager(){
+}
 
+void WorkerManager::Init(Worker* p[], int* lenp){
+    ifstream ifs;
+    ifs.open(Filename, ios::in);
+    if(!ifs.is_open()){
+        cout << "NOT FOUND" << endl;
+        return;
+    }
+    int id; int dep; string name; string role;
+    while(ifs >> id && ifs >> name && ifs >> dep && ifs >> role){
+        if(role == "Staff"){
+            p[*lenp] = new Staff(id, name, dep);
+            *lenp += 1;
+        }
+        else if(role == "Manager"){
+            p[*lenp] = new Manager(id, name, dep);
+            *lenp += 1;
+        }
+        else{
+            p[*lenp] = new Boss(id, name, dep);
+            *lenp += 1;
+        }
+    }
+    cout << "Init sucess!" << endl;
 }
 
 void WorkerManager::CreateWorker(Worker* p[], int* lenp){
@@ -94,6 +117,23 @@ void WorkerManager::SortWorker(Worker* p[], int* lenp){
     system("pause");
 }
 
-void WorkerManager::Save(){
-    
+void WorkerManager::Save(Worker* p[], int *lenp){
+    ofstream ofs;
+    ofs.open(Filename, ios::out);
+    if (!ofs.is_open()) {
+        cout << "Failed to open file: " << Filename << endl;
+        return;
+    }
+    for(int i = 0; i < *lenp; i++){
+        ofs << p[i]->m_id << " "
+        << p[i]->m_name << " "
+        << p[i]->m_dep << " "
+        << p[i]->GetDep() << endl;
+    }
+    ofs.close();
+}
+
+void WorkerManager::WorkerCount(Worker* p[], int* lenp){
+    cout << "Worker Counts:" << *lenp << endl;
+    system("pause");
 }
