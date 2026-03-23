@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.json": "jsonl",
-        "iostream": "cpp",
-        "ostream": "cpp"
-    }
-}

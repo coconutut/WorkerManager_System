@@ -1,3 +1,0 @@
-C:/Users/Song Haojie/Desktop/WorkerManager_System/build/CMakeFiles/main.dir
-C:/Users/Song Haojie/Desktop/WorkerManager_System/build/CMakeFiles/edit_cache.dir
-C:/Users/Song Haojie/Desktop/WorkerManager_System/build/CMakeFiles/rebuild_cache.dir
